@@ -1,0 +1,1 @@
+rootProject.name = "mdy.klt.ktor-newsapi"
